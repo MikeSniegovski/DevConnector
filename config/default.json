@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://DevConnectUser:VDqjEaSyG7Hgdca8@devconnectcluster-hgbm7.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "DevConnectSecret"
+}
